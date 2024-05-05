@@ -6,10 +6,11 @@ Eigenvectors describe vectors that only experience a scale change when they are 
 
 Together, the eigenvector-eigenvalue pair divulges intrinsic qualities of linear mappings. Their theoretical relationship, emerging from rewriting the eigenvector equation and examining matrix singularity, endows novelty to other algebraic tools. Matrix diagonalization, long utilized for simplification, gains native meaning.
 
-While initiation demands overcoming abstraction, rigorous treatment unveils elegance. Eigenvectors and eigenvalues, far from opaque, embody fundamental constructs with impacts across mathematics. Comprehension rewards application in physics, engineering and beyond.
+Eigenvectors and eigenvalues, far from opaque, embody fundamental constructs with impacts across mathematics. Comprehension rewards application in physics, engineering and beyond.
 Eigenvectors and eigenvalues, important foundations of linear algebra, embody fundamental constructs essential for understanding the essence of mathematical operations. Although a comprehensive examination of their intricacies awaits, a preliminary understanding of their conceptual significance lays the groundwork.
 
 # Conclusion
+
 In this article, we have explored the critical concepts of eigenvectors and eigenvalues through both theoretical and practical lenses. Through mathematical explanations of these quantities, their intuitive meanings as "natural behaviors" and "scales of change" have been illuminated. Their prevalence across scientific fields also underscores their fundamental descriptive power for linear systems.
 
 The presented PCA example utilizing real-world penguin data served to translate the abstract into concrete application. Calculating the covariance matrix first equipped us to meaningfully interpret variances and relationships between input dimensions. Subsequent eigendecomposition then revealed the primary trends underlying the multidimensional dataset. Together, these steps achieved dimensionality reduction via an elegant, optimized framework - one with numerous analytics uses. 
